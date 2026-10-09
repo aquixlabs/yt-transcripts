@@ -1,0 +1,67 @@
+{
+ "playabilityStatus": {
+  "status": "LOGIN_REQUIRED",
+  "reason": "Sign in to confirm you’re not a bot",
+  "errorScreen": {
+   "playerErrorMessageRenderer": {
+    "subreason": {
+     "runs": [
+      {
+       "text": "This helps protect our community. "
+      },
+      {
+       "text": "Learn more",
+       "navigationEndpoint": {
+        "clickTrackingParams": "CAAQu2kiEwiZrKjp3-eNAxXimsIBHTHfKdc=",
+        "urlEndpoint": {
+         "url": "https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube"
+        }
+       }
+      }
+     ]
+    },
+    "reason": {
+     "runs": [
+      {
+       "text": "Sign in to confirm you’re not a bot"
+      }
+     ]
+    },
+    "proceedButton": {
+     "buttonRenderer": {
+      "style": "STYLE_PRIMARY",
+      "size": "SIZE_DEFAULT",
+      "isDisabled": false,
+      "text": {
+       "simpleText": "Sign in"
+      },
+      "navigationEndpoint": {
+       "clickTrackingParams": "CAIQptEGIhMImayo6d_njQMV4prCAR0x3ynX",
+       "signInEndpoint": {
+        "nextEndpoint": {
+         "clickTrackingParams": "CAIQptEGIhMImayo6d_njQMV4prCAR0x3ynX",
+         "urlEndpoint": {
+          "url": ""
+         }
+        }
+       }
+      },
+      "trackingParams": "CAIQptEGIhMImayo6d_njQMV4prCAR0x3ynX"
+     }
+    },
+    "thumbnail": {
+     "thumbnails": [
+      {
+       "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+       "width": 140,
+       "height": 100
+      }
+     ]
+    },
+    "icon": {
+     "iconType": "ERROR_OUTLINE"
+    }
+   }
+  }
+ }
+}

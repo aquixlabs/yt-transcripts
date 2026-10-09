@@ -1,0 +1,61 @@
+{
+ "playabilityStatus": {
+  "status": "LOGIN_REQUIRED",
+  "reason": "This video may be inappropriate for some users.",
+  "errorScreen": {
+   "confirmDialogRenderer": {
+    "title": {
+     "runs": [
+      {
+       "text": "You must sign in to view this video"
+      }
+     ]
+    },
+    "trackingParams": "CAMQxjgiEwj-xITe1OmNAxXK60IFHf00F5c=",
+    "dialogMessages": [
+     {
+      "runs": [
+       {
+        "text": "This video may be inappropriate for some users."
+       }
+      ]
+     }
+    ],
+    "confirmButton": {
+     "buttonRenderer": {
+      "style": "STYLE_BLUE_TEXT",
+      "size": "SIZE_DEFAULT",
+      "isDisabled": false,
+      "text": {
+       "runs": [
+        {
+         "text": "Sign in"
+        }
+       ]
+      },
+      "trackingParams": "CAUQ8FsiEwj-xITe1OmNAxXK60IFHf00F5c="
+     }
+    },
+    "cancelButton": {
+     "buttonRenderer": {
+      "style": "STYLE_BLUE_TEXT",
+      "size": "SIZE_DEFAULT",
+      "isDisabled": false,
+      "text": {
+       "runs": [
+        {
+         "text": "Go back"
+        }
+       ]
+      },
+      "trackingParams": "CAQQ8FsiEwj-xITe1OmNAxXK60IFHf00F5c="
+     }
+    }
+   }
+  }
+ },
+ "videoDetails": {
+  "videoId": "Njp5uhTorCo",
+  "title": "Laura Branigan - Self Control (Moreno J Remix) Age-restricted"
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "playabilityStatus": {
+  "status": "OK"
+ },
+ "videoDetails": {
+  "videoId": "GJLlxj_dtq8",
+  "title": "Surface Go Review - It’s Awesome"
+ },
+ "captions": {
+  "playerCaptionsTracklistRenderer": {
+   "captionTracks": [
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=zh&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Chinese"
+       }
+      ]
+     },
+     "vssId": ".zh",
+     "languageCode": "zh",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=cs&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Czech"
+       }
+      ]
+     },
+     "vssId": ".cs",
+     "languageCode": "cs",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=en&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "English"
+       }
+      ]
+     },
+     "vssId": ".en",
+     "languageCode": "en",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&kind=asr&lang=en&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "English (auto-generated)"
+       }
+      ]
+     },
+     "vssId": "a.en",
+     "languageCode": "en",
+     "kind": "asr",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=de&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "German"
+       }
+      ]
+     },
+     "vssId": ".de",
+     "languageCode": "de",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=hi&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Hindi"
+       }
+      ]
+     },
+     "vssId": ".hi",
+     "languageCode": "hi",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=ja&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Japanese"
+       }
+      ]
+     },
+     "vssId": ".ja",
+     "languageCode": "ja",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=ko&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Korean"
+       }
+      ]
+     },
+     "vssId": ".ko",
+     "languageCode": "ko",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=GJLlxj_dtq8&ei=xp1JaMfUBcyLzPsP9ren4QQ&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1749680182&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F9610ACAAC990A6B62DB23D030E97121C9E8F97.7F4A2E6D1C6E7ADFFEF8588DA0091AEFE24B64F7&key=yt8&lang=es&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Spanish"
+       }
+      ]
+     },
+     "vssId": ".es",
+     "languageCode": "es",
+     "isTranslatable": true,
+     "trackName": ""
+    }
+   ],
+   "audioTracks": [
+    {
+     "captionTrackIndices": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      3
+     ],
+     "defaultCaptionTrackIndex": 2,
+     "hasDefaultTrack": true,
+     "captionsInitialState": "CAPTIONS_INITIAL_STATE_OFF_RECOMMENDED"
+    }
+   ],
+   "translationLanguages": [
+    {
+     "languageCode": "ar",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Arabic"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "zh-Hant",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Chinese (Traditional)"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "nl",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Dutch"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "en",
+     "languageName": {
+      "runs": [
+       {
+        "text": "English"
+       }
+      ]
+     },
+     "translationSourceTrackIndices": [
+      4
+     ]
+    },
+    {
+     "languageCode": "fr",
+     "languageName": {
+      "runs": [
+       {
+        "text": "French"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "de",
+     "languageName": {
+      "runs": [
+       {
+        "text": "German"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "hi",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Hindi"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "id",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Indonesian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "it",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Italian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ja",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Japanese"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ko",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Korean"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "pt",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Portuguese"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ru",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Russian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "es",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Spanish"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "th",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Thai"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "tr",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Turkish"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "uk",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Ukrainian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "vi",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Vietnamese"
+       }
+      ]
+     }
+    }
+   ],
+   "defaultAudioTrackIndex": 0,
+   "defaultTranslationSourceTrackIndices": [
+    2
+   ]
+  }
+ }
+}

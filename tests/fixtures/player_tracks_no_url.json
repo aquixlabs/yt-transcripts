@@ -1,0 +1,340 @@
+{
+ "playabilityStatus": {
+  "status": "OK"
+ },
+ "videoDetails": {
+  "videoId": "GJLlxj_dtq8",
+  "title": "Surface Go Review - It’s Awesome"
+ },
+ "captions": {
+  "playerCaptionsTracklistRenderer": {
+   "captionTracks": [
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Chinese"
+       }
+      ]
+     },
+     "vssId": ".zh",
+     "languageCode": "zh",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Czech"
+       }
+      ]
+     },
+     "vssId": ".cs",
+     "languageCode": "cs",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "English"
+       }
+      ]
+     },
+     "vssId": ".en",
+     "languageCode": "en",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "English (auto-generated)"
+       }
+      ]
+     },
+     "vssId": "a.en",
+     "languageCode": "en",
+     "kind": "asr",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "German"
+       }
+      ]
+     },
+     "vssId": ".de",
+     "languageCode": "de",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Hindi"
+       }
+      ]
+     },
+     "vssId": ".hi",
+     "languageCode": "hi",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Japanese"
+       }
+      ]
+     },
+     "vssId": ".ja",
+     "languageCode": "ja",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Korean"
+       }
+      ]
+     },
+     "vssId": ".ko",
+     "languageCode": "ko",
+     "isTranslatable": true,
+     "trackName": ""
+    },
+    {
+     "name": {
+      "runs": [
+       {
+        "text": "Spanish"
+       }
+      ]
+     },
+     "vssId": ".es",
+     "languageCode": "es",
+     "isTranslatable": true,
+     "trackName": ""
+    }
+   ],
+   "audioTracks": [
+    {
+     "captionTrackIndices": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      3
+     ],
+     "defaultCaptionTrackIndex": 2,
+     "hasDefaultTrack": true,
+     "captionsInitialState": "CAPTIONS_INITIAL_STATE_OFF_RECOMMENDED"
+    }
+   ],
+   "translationLanguages": [
+    {
+     "languageCode": "ar",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Arabic"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "zh-Hant",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Chinese (Traditional)"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "nl",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Dutch"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "en",
+     "languageName": {
+      "runs": [
+       {
+        "text": "English"
+       }
+      ]
+     },
+     "translationSourceTrackIndices": [
+      4
+     ]
+    },
+    {
+     "languageCode": "fr",
+     "languageName": {
+      "runs": [
+       {
+        "text": "French"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "de",
+     "languageName": {
+      "runs": [
+       {
+        "text": "German"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "hi",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Hindi"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "id",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Indonesian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "it",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Italian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ja",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Japanese"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ko",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Korean"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "pt",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Portuguese"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "ru",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Russian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "es",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Spanish"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "th",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Thai"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "tr",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Turkish"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "uk",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Ukrainian"
+       }
+      ]
+     }
+    },
+    {
+     "languageCode": "vi",
+     "languageName": {
+      "runs": [
+       {
+        "text": "Vietnamese"
+       }
+      ]
+     }
+    }
+   ],
+   "defaultAudioTrackIndex": 0,
+   "defaultTranslationSourceTrackIndices": [
+    2
+   ]
+  }
+ }
+}

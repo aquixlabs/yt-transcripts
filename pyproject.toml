@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yt-transcripts"
+version = "0.1.0"
+description = "YouTube transcripts for AI agents, with an honest status: a block is never reported as 'no captions'."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+authors = [{ name = "aquixlabs" }]
+keywords = ["youtube", "transcript", "captions", "subtitles", "mcp", "ai-agents", "llm"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Multimedia :: Video",
+]
+dependencies = [
+  "youtube-transcript-api>=1.2,<2",
+  "requests>=2.25",
+]
+
+[project.optional-dependencies]
+mcp = ["mcp>=1.2"]
+
+[project.scripts]
+yt-transcripts = "yt_transcripts.cli:main"
+yt-transcripts-mcp = "yt_transcripts.mcp_server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
