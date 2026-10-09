@@ -14,7 +14,7 @@ $ yt-transcripts https://youtu.be/GJLlxj_dtq8
 [OK] GJLlxj_dtq8 (en)
 Hey, how's it going Dave 2d here? ...
 
-$ yt-transcripts dsMFmonKDD4            # from a cloud server
+$ yt-transcripts dsMFmonKDD4            # example: what a blocked machine sees
 [BLOCKED] dsMFmonKDD4: YouTube asked this machine to sign in to prove it is not a bot
   hint: YouTube refused this machine. Retry from a home connection, or set APIFY_TOKEN ...
 ```
